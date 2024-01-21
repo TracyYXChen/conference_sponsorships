@@ -1,0 +1,376 @@
+year,organization,tier,Hero,Champions,Contributors,Friends
+2024,Apple,Champions,0,1,0,0
+2024,Adobe,Contributors,0,0,1,0
+2024,Autodesk,Contributors,0,0,1,0
+2024,Microsoft,Contributors,0,0,1,0
+2023,Google,Hero,1,0,0,0
+2023,Siemens,Hero,1,0,0,0
+2023,Apple,Champions,0,1,0,0
+2023,Bloomberg,Champions,0,1,0,0
+2023,NSF,Champions,0,1,0,0
+2023,Adobe,Contributors,0,0,1,0
+2023,Autodesk,Contributors,0,0,1,0
+2023,Toyota Research Institute,Contributors,0,0,1,0
+2022,Google,Hero,1,0,0,0
+2022,Bloomberg,Champions,0,1,0,0
+2022,Meta,Champions,0,1,0,0
+2022,Microsoft,Champions,0,1,0,0
+2022,NSF,Champions,0,1,0,0
+2022,Yahoo!,Champions,0,1,0,0
+2022,Adobe,Contributors,0,0,1,0
+2022,Apple,Contributors,0,0,1,0
+2022,Autodesk,Contributors,0,0,1,0
+2022,Tableau,Contributors,0,0,1,0
+2022,Toyota Research Institute,Contributors,0,0,1,0
+2022,Megagon Labs,Friends,0,0,0,1
+2022,University of Miami Department of Interactive Media,Friends,0,0,0,1
+2021,Bloomberg,Champions,0,1,0,0
+2021,Meta,Champions,0,1,0,0
+2021,Google,Champions,0,1,0,0
+2021,Kyocera,Champions,0,1,0,0
+2021,Microsoft,Champions,0,1,0,0
+2021,Monash University,Champions,0,1,0,0
+2021,Verizon Media,Champions,0,1,0,0
+2021,Adobe,Contributors,0,0,1,0
+2021,Apple,Contributors,0,0,1,0
+2021,Autodesk,Contributors,0,0,1,0
+2021,IBM,Contributors,0,0,1,0
+2021,Line,Contributors,0,0,1,0
+2021,Mercari,Contributors,0,0,1,0
+2021,Yahoo!,Contributors,0,0,1,0
+2021,DMM.com,Friends,0,0,0,1
+2021,National Institute of Information and Communications Technology (NICT),Friends,0,0,0,1
+2021,Toyota Research Institute,Friends,0,0,0,1
+2021,University of Miami Department of Interactive Media,Friends,0,0,0,1
+2020,Meta,Champions,0,1,0,0
+2020,Google,Champions,0,1,0,0
+2020,Microsoft,Champions,0,1,0,0
+2020,Monash University,Champions,0,1,0,0
+2020,Verizon Media,Champions,0,1,0,0
+2020,Apple,Contributors,0,0,1,0
+2020,Autodesk,Contributors,0,0,1,0
+2019,Alibaba,Champions,0,1,0,0
+2019,Baidu,Champions,0,1,0,0
+2019,Bloomberg,Champions,0,1,0,0
+2019,Meta,Champions,0,1,0,0
+2019,Google,Champions,0,1,0,0
+2019,Microsoft,Champions,0,1,0,0
+2019,NSF,Champions,0,1,0,0
+2019,Verizon Media,Champions,0,1,0,0
+2019,Autodesk,Contributors,0,0,1,0
+2019,Huawei,Contributors,0,0,1,0
+2019,IBM Research,Contributors,0,0,1,0
+2019,Mozilla,Contributors,0,0,1,0
+2019,Sicsa,Contributors,0,0,1,0
+2019,University of Glasgow,Contributors,0,0,1,0
+2019,Adobe,Friends,0,0,0,1
+2019,Elsevier,Friends,0,0,0,1
+2019,Uber,Friends,0,0,0,1
+2018,Alibaba,Champions,0,1,0,0
+2018,Bloomberg,Champions,0,1,0,0
+2018,Meta,Champions,0,1,0,0
+2018,Google,Champions,0,1,0,0
+2018,IBM Research,Champions,0,1,0,0
+2018,Microsoft,Champions,0,1,0,0
+2018,Oath,Champions,0,1,0,0
+2018,Disney Research,Contributors,0,0,1,0
+2018,NSF,Contributors,0,0,1,0
+2018,Salesforce,Contributors,0,0,1,0
+2018,Society for Arts and Technology,Contributors,0,0,1,0
+2018,Adobe,Friends,0,0,0,1
+2017,Bloomberg,Champions,0,1,0,0
+2017,Meta,Champions,0,1,0,0
+2017,Google,Champions,0,1,0,0
+2017,IBM,Champions,0,1,0,0
+2017,Microsoft,Champions,0,1,0,0
+2017,NSF,Champions,0,1,0,0
+2017,Yahoo!,Champions,0,1,0,0
+2016,InfoSys,Hero,1,0,0,0
+2016,Bloomberg,Champions,0,1,0,0
+2016,Meta,Champions,0,1,0,0
+2016,Google,Champions,0,1,0,0
+2016,HP,Champions,0,1,0,0
+2016,IBM Research,Champions,0,1,0,0
+2016,Microsoft,Champions,0,1,0,0
+2016,Yahoo!,Champions,0,1,0,0
+2016,ACM,Champions,0,1,0,0
+2016,SIGCHI,Champions,0,1,0,0
+2016,Autodesk,Contributors,0,0,1,0
+2016,GE digital,Contributors,0,0,1,0
+2016,IUEditor,Contributors,0,0,1,0
+2016,Naver,Contributors,0,0,1,0
+2016,NSF,Contributors,0,0,1,0
+2016,Salesforce,Contributors,0,0,1,0
+2016,Splunk,Contributors,0,0,1,0
+2016,Works/San Jose,Contributors,0,0,1,0
+2016,Adobe,Friends,0,0,0,1
+2016,Disney Research,Friends,0,0,0,1
+2015,Sumsung,Hero,1,0,0,0
+2015,Golfzon,Champions,0,1,0,0
+2015,Google,Champions,0,1,0,0
+2015,Microsoft,Champions,0,1,0,0
+2015,Naver,Champions,0,1,0,0
+2015,SK Planet,Champions,0,1,0,0
+2015,Autodesk,Contributors,0,0,1,0
+2015,daumkakao,Contributors,0,0,1,0
+2015,Disney Research,Contributors,0,0,1,0
+2015,Meta,Contributors,0,0,1,0
+2015,Future play,Contributors,0,0,1,0
+2015,Hyundai Motor Groups,Contributors,0,0,1,0
+2015,Language Grid,Contributors,0,0,1,0
+2015,LG,Contributors,0,0,1,0
+2015,NSF,Contributors,0,0,1,0
+2015,Adobe,Friends,0,0,0,1
+2015,H9Works.com,Friends,0,0,0,1
+2015,"HCI Lab, Yonsei University",Friends,0,0,0,1
+2015,"Institute of Convergence Science, Yonsei University",Friends,0,0,0,1
+2015,KIPFA,Friends,0,0,0,1
+2015,Samsung Art and Design Institute,Friends,0,0,0,1
+2015,Korea Tourism Organization,Social support,0,0,0,0
+2015,Seoul Metropolitan Government,Social support,0,0,0,0
+2014,Autodesk,Champions,0,1,0,0
+2014,Bloomberg,Champions,0,1,0,0
+2014,Google,Champions,0,1,0,0
+2014,"GRAND NCE (Graphics, Animation and New Media Network of Centres of Excellence)",Champions,0,1,0,0
+2014,Microsoft,Champions,0,1,0,0
+2014,Naver,Champions,0,1,0,0
+2014,"Department of Computer Science, University of Toronto",Champions,0,1,0,0
+2014,Meta,Contributors,0,0,1,0
+2014,NSF,Contributors,0,0,1,0
+2014,Yahoo!,Contributors,0,0,1,0
+2014,Disney Research,Friends,0,0,0,1
+2014,Newcastle University,Friends,0,0,0,1
+2014,UMBC,Friends,0,0,0,1
+2014,University of California Irvine,Friends,0,0,0,1
+2014,University of Maryland,Friends,0,0,0,1
+2014,Virginia Tech,Friends,0,0,0,1
+2013,JCDecaux,Hero,1,0,0,0
+2013,Bloomberg,Champions,0,1,0,0
+2013,ebay,Champions,0,1,0,0
+2013,Paypal,Champions,0,1,0,0
+2013,Google,Champions,0,1,0,0
+2013,Inria,Champions,0,1,0,0
+2013,Microsoft,Champions,0,1,0,0
+2013,Télécom Paris,Champions,0,1,0,0
+2013,Paris Dauphine University,Champions,0,1,0,0
+2013,Autodesk,Contributors,0,0,1,0
+2013,Digiteo,Contributors,0,0,1,0
+2013,Meta,Contributors,0,0,1,0
+2013,iledeFrance,Contributors,0,0,1,0
+2013,Nokia,Contributors,0,0,1,0
+2013,Yahoo!,Contributors,0,0,1,0
+2013,"GRAND NCE (Graphics, Animation and New Media Network of Centres of Excellence)",Friends,0,0,0,1
+2012,Autodesk,Champions,0,1,0,0
+2012,Bloomberg,Champions,0,1,0,0
+2012,ebay,Champions,0,1,0,0
+2012,Paypal,Champions,0,1,0,0
+2012,Google,Champions,0,1,0,0
+2012,Microsoft,Champions,0,1,0,0
+2012,NSF,Champions,0,1,0,0
+2012,SAP,Champions,0,1,0,0
+2012,Meta,Contributors,0,0,1,0
+2012,Nokia,Contributors,0,0,1,0
+2012,Adobe,Friends,0,0,0,1
+2012,Disney Research,Friends,0,0,0,1
+2012,Samsung UX Center America,Friends,0,0,0,1
+2012,University of Michigan School of Information,Friends,0,0,0,1
+2011,Bloomberg,Champions,0,1,0,0
+2011,ebay,Champions,0,1,0,0
+2011,Paypal,Champions,0,1,0,0
+2011,Google,Champions,0,1,0,0
+2011,Microsoft,Champions,0,1,0,0
+2011,NSF,Champions,0,1,0,0
+2011,SAP,Champions,0,1,0,0
+2011,Autodesk,Contributors,0,0,1,0
+2011,eventburn.com,Contributors,0,0,1,0
+2011,"GRAND NCE (Graphics, Animation and New Media Network of Centres of Excellence)",Contributors,0,0,1,0
+2011,IBM Research,Contributors,0,0,1,0
+2011,Nokia,Contributors,0,0,1,0
+2011,Adobe,Friends,0,0,0,1
+2011,Disney Research,Friends,0,0,0,1
+2011,"FX Palo Alto Laboratory, Inc.",Friends,0,0,0,1
+2011,University of Maryland,Friends,0,0,0,1
+2011,University of Michigan School of Information,Friends,0,0,0,1
+2011,Yahoo!,Friends,0,0,0,1
+2010,Google,Champions,0,1,0,0
+2010,Microsoft,Champions,0,1,0,0
+2010,NSF,Champions,0,1,0,0
+2010,Yahoo!,Champions,0,1,0,0
+2010,Autodesk,Contributors,0,0,1,0
+2010,Bloomberg,Contributors,0,0,1,0
+2010,IBM Research,Contributors,0,0,1,0
+2010,Intel,Contributors,0,0,1,0
+2010,Nokia,Contributors,0,0,1,0
+2010,SAP,Contributors,0,0,1,0
+2010,EPSRC,Friends,0,0,0,1
+2010,"FX Palo Alto Laboratory, Inc.",Friends,0,0,0,1
+2010,Georgia Tech,Friends,0,0,0,1
+2010,University of Michigan School of Information,Friends,0,0,0,1
+2009,Autodesk,Champions,0,1,0,0
+2009,Google,Champions,0,1,0,0
+2009,Microsoft,Champions,0,1,0,0
+2009,NSF,Champions,0,1,0,0
+2009,eLearn Magazine,Contributors,0,0,1,0
+2009,HP,Contributors,0,0,1,0
+2009,ACM Interactions,Contributors,0,0,1,0
+2009,Yahoo!,Contributors,0,0,1,0
+2009,EPSRC,Friends,0,0,0,1
+2009,"FX Palo Alto Laboratory, Inc.",Friends,0,0,0,1
+2009,IBM Research,Friends,0,0,0,1
+2009,Nokia,Friends,0,0,0,1
+2008,Microsoft,Hero,1,0,0,0
+2008,Autodesk,Champions,0,1,0,0
+2008,Google,Champions,0,1,0,0
+2008,NSF,Champions,0,1,0,0
+2008,Oracle,Champions,0,1,0,0
+2008,SAP,Champions,0,1,0,0
+2008,sourceforge,Champions,0,1,0,0
+2008,eLearn Magazine,Contributors,0,0,1,0
+2008,ACM Interactions,Contributors,0,0,1,0
+2008,Nokia,Contributors,0,0,1,0
+2008,Adobe,Friends,0,0,0,1
+2008,Intel,Friends,0,0,0,1
+2008,VMware,Friends,0,0,0,1
+2008,University of Bari,Friends,0,0,0,1
+2007,Intel,Hero,1,0,0,0
+2007,Cisco,Champions,0,1,0,0
+2007,cooper,Champions,0,1,0,0
+2007,Google,Champions,0,1,0,0
+2007,Intuit,Champions,0,1,0,0
+2007,Microsoft,Champions,0,1,0,0
+2007,NSF,Champions,0,1,0,0
+2007,SAP,Champions,0,1,0,0
+2007,Sun microsystem,Champions,0,1,0,0
+2007,Yahoo!,Champions,0,1,0,0
+2007,sourceforge,Champions,0,1,0,0
+2007,Adobe,Contributors,0,0,1,0
+2007,Autodesk,Contributors,0,0,1,0
+2007,ebay,Contributors,0,0,1,0
+2007,eLearn Magazine,Contributors,0,0,1,0
+2007,Nokia,Contributors,0,0,1,0
+2007,Pitney Bowes,Contributors,0,0,1,0
+2007,"FX Palo Alto Laboratory, Inc.",Friends,0,0,0,1
+2007,VMWare,Friends,0,0,0,1
+2006,Google,Champions,0,1,0,0
+2006,Intel,Champions,0,1,0,0
+2006,Intuit,Champions,0,1,0,0
+2006,Microsoft,Champions,0,1,0,0
+2006,NSF,Champions,0,1,0,0
+2006,OSTG,Champions,0,1,0,0
+2006,SAP,Champions,0,1,0,0
+2006,Yahoo!,Champions,0,1,0,0
+2006,Cisco,Contributors,0,0,1,0
+2006,ebay,Contributors,0,0,1,0
+2006,IBM,Contributors,0,0,1,0
+2006,Nokia,Contributors,0,0,1,0
+2006,Pitney Bowes,Contributors,0,0,1,0
+2006,VMWare,Friends,0,0,0,1
+2005,America Online,Champions,0,1,0,0
+2005,Microsoft,Champions,0,1,0,0
+2005,NSF,Champions,0,1,0,0
+2005,OSTG,Champions,0,1,0,0
+2005,SAP,Champions,0,1,0,0
+2005,Tektronix,Champions,0,1,0,0
+2005,Yahoo!,Champions,0,1,0,0
+2005,Cisco,Contributors,0,0,1,0
+2005,eLearn Magazine,Contributors,0,0,1,0
+2005,IBM,Contributors,0,0,1,0
+2005,Nokia,Contributors,0,0,1,0
+2005,Intel,Contributors,0,0,1,0
+2005,Sun microsystem,Contributors,0,0,1,0
+2005,Pitney Bowes,Contributors,0,0,1,0
+2004,Google,Champions,0,1,0,0
+2004,Microsoft,Champions,0,1,0,0
+2004,NSF,Champions,0,1,0,0
+2004,sourceforge,Champions,0,1,0,0
+2004,SAP,Champions,0,1,0,0
+2004,Unisys,Champions,0,1,0,0
+2004,Yahoo!,Champions,0,1,0,0
+2004,eLearn Magazine,Contributors,0,0,1,0
+2004,Intel,Contributors,0,0,1,0
+2004,Nokia,Contributors,0,0,1,0
+2004,Sun microsystem,Contributors,0,0,1,0
+2003,diamondbullet.com,Champions,0,1,0,0
+2003,Google,Champions,0,1,0,0
+2003,Microsoft,Champions,0,1,0,0
+2003,NSF,Champions,0,1,0,0
+2003,sourceforge,Champions,0,1,0,0
+2003,Unisys,Champions,0,1,0,0
+2003,Yahoo!,Champions,0,1,0,0
+2003,eLearn Magazine,Contributors,0,0,1,0
+2003,IBM,Contributors,0,0,1,0
+2003,Intel ,Contributors,0,0,1,0
+2003,Menlo Technology Group,Contributors,0,0,1,0
+2003,Nokia,Contributors,0,0,1,0
+2003,SAP,Contributors,0,0,1,0
+2003,User Interface Engineering,Contributors,0,0,1,0
+2003,Sun microsystem,Contributors,0,0,1,0
+2002,diamondbullet.com,Champions,0,1,0,0
+2002,Enviz,Champions,0,1,0,0
+2002,Microsoft,Champions,0,1,0,0
+2002,NSF,Champions,0,1,0,0
+2002,Polycom,Champions,0,1,0,0
+2002,Sun microsystem,Champions,0,1,0,0
+2002,Unisys,Champions,0,1,0,0
+2002,Yahoo!,Champions,0,1,0,0
+2002,cooper,Contributors,0,0,1,0
+2002,HP,Contributors,0,0,1,0
+2002,IBM,Contributors,0,0,1,0
+2002,Menlo Technology Group,Contributors,0,0,1,0
+2002,Nokia,Contributors,0,0,1,0
+2002,3M,Friends,0,0,0,1
+2002,Dray & Associate,Friends,0,0,0,1
+2002,Kodak,Friends,0,0,0,1
+2002,Intel,Friends,0,0,0,1
+2002,Morgan Kaufmann,Friends,0,0,0,1
+2002,UI Wizards,Friends,0,0,0,1
+2002,User Interface Engineering,Friends,0,0,0,1
+2001,diamondbullet.com,Champions,0,1,0,0
+2001,Microsoft,Champions,0,1,0,0
+2001,Motorola,Champions,0,1,0,0
+2001,NSF,Champions,0,1,0,0
+2001,Siebel Systems,Champions,0,1,0,0
+2001,Sun microsystem,Champions,0,1,0,0
+2001,Unisys,Champions,0,1,0,0
+2001,Web criteria,Champions,0,1,0,0
+2001,Yahoo!,Champions,0,1,0,0
+2001,AT&T,Contributors,0,0,1,0
+2001,Cisco,Contributors,0,0,1,0
+2001,Conference and logistics consultants,Contributors,0,0,1,0
+2001,cooper,Contributors,0,0,1,0
+2001,"FX Palo Alto Laboratory, Inc.",Contributors,0,0,1,0
+2001,HP,Contributors,0,0,1,0
+2001,IBM,Contributors,0,0,1,0
+2001,Lucent,Contributors,0,0,1,0
+2001,Menlo Technology Group,Contributors,0,0,1,0
+2001,Monkey Media,Contributors,0,0,1,0
+2001,Noldus Information Technology,Contributors,0,0,1,0
+2001,Oracle,Contributors,0,0,1,0
+2001,Sapient,Contributors,0,0,1,0
+2001,User Interface Engineering,Contributors,0,0,1,0
+2000,diamondbullet.com,Champions,0,1,0,0
+2000,Microsoft,Champions,0,1,0,0
+2000,Motorola,Champions,0,1,0,0
+2000,Nokia,Champions,0,1,0,0
+2000,Sun microsystem,Champions,0,1,0,0
+2000,Unisys,Champions,0,1,0,0
+2000,Yahoo!,Champions,0,1,0,0
+2000,AT&T,Contributors,0,0,1,0
+2000,HP,Contributors,0,0,1,0
+2000,IBM,Contributors,0,0,1,0
+2000,Kodak,Contributors,0,0,1,0
+2000,Lucent,Contributors,0,0,1,0
+2000,Oracle,Contributors,0,0,1,0
+2000,Philips,Contributors,0,0,1,0
+2000,SAP,Contributors,0,0,1,0
+2000,Sapient,Contributors,0,0,1,0
+2000,Siebel Systems,Contributors,0,0,1,0
+2000,VM-Data,Contributors,0,0,1,0
+2000,Vrije Universiteit - Amsterdam,Friends,0,0,0,1
+2000,Compaq,Friends,0,0,0,1
+2000,Kodak,Friends,0,0,0,1
+2000,MONKEYmedia,Friends,0,0,0,1
+2000,KPN Royal Dutch Telecom,Friends,0,0,0,1
+2000,KTH The Royal Institute of Technology Stockholm,Friends,0,0,0,1
+2000,Morgan Kaufmann,Friends,0,0,0,1
+2000,User Interface Engineering,Friends,0,0,0,1
